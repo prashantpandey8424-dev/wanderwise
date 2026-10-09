@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2400" viewBox="0 0 1440 2400">
+<defs>
+ <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#103e39"/><stop offset="1" stop-color="#72958a"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d4e4d9"/><stop offset="1" stop-color="#719d8b"/></linearGradient>
+ <style>
+ .sans{font-family:Arial,sans-serif}.serif{font-family:Georgia,serif}.ink{fill:#173a36}.muted{fill:#6d7c78}.white{fill:#fffdf9}.green{fill:#0f766e}.tiny{font-size:12px}.small{font-size:15px}.body{font-size:17px}.heading{font-size:52px}.label{font-size:12px;font-weight:bold;letter-spacing:2px}
+ </style>
+</defs>
+<rect width="1440" height="2400" fill="#fffdf9"/>
+<!-- Header -->
+<rect width="1440" height="88" fill="#fffdf9"/><path d="M0 87.5H1440" stroke="#e7ebe6"/>
+<circle cx="104" cy="44" r="19" fill="#e3f0e9"/><text x="104" y="50" text-anchor="middle" class="sans green" font-size="23">✧</text>
+<text x="134" y="52" class="sans ink" font-size="28" font-weight="bold">wander<tspan fill="#0f766e" font-weight="normal">wise</tspan></text>
+<text x="570" y="50" class="sans muted small">Home</text><text x="670" y="50" class="sans muted small">Destinations</text><text x="810" y="50" class="sans muted small">Why WanderWise</text><text x="980" y="50" class="sans muted small">Reviews</text>
+<rect x="1192" y="22" width="160" height="44" rx="7" fill="#103e39"/><text x="1272" y="49" text-anchor="middle" class="sans white small" font-weight="bold">Explore trips →</text>
+<!-- Hero -->
+<rect y="88" width="1440" height="570" fill="url(#hero)"/>
+<circle cx="1130" cy="300" r="230" fill="#fffdf9" opacity=".05"/><circle cx="1190" cy="420" r="310" fill="#d4e4d9" opacity=".08"/>
+<text x="104" y="188" class="sans white label">✦  YOUR NEXT CHAPTER STARTS HERE</text>
+<text x="104" y="284" class="serif white" font-size="76">Collect moments.</text><text x="104" y="370" class="serif" font-size="76" fill="#e9b780" font-style="italic">Not just miles.</text>
+<text x="104" y="423" class="sans white body">Thoughtfully planned getaways for curious travellers.</text><text x="104" y="451" class="sans white body">Find the trip that feels like you.</text>
+<rect x="104" y="486" width="220" height="54" rx="7" fill="#0f766e"/><text x="214" y="519" text-anchor="middle" class="sans white small" font-weight="bold">Explore destinations →</text>
+<text x="350" y="519" class="sans white small">Discover our story ↗</text>
+<circle cx="116" cy="592" r="16" fill="#d3a57d"/><circle cx="140" cy="592" r="16" fill="#6b8c79" stroke="#fff" stroke-width="2"/><circle cx="164" cy="592" r="16" fill="#c27c66" stroke="#fff" stroke-width="2"/>
+<text x="193" y="588" class="sans white small" font-weight="bold">Loved by 12,000+ travellers</text><text x="193" y="610" class="sans" font-size="12" fill="#e8c18f">★ 4.9/5 average trip rating</text>
+<rect x="1060" y="555" width="275" height="68" rx="8" fill="#fffdf9"/><circle cx="1097" cy="589" r="20" fill="#e1eee7"/><text x="1097" y="595" text-anchor="middle" class="sans green" font-size="19">✈</text><text x="1128" y="585" class="sans ink small" font-weight="bold">Somewhere wonderful</text><text x="1128" y="605" class="sans muted tiny">is closer than you think.</text>
+<!-- Search panel -->
+<rect x="104" y="630" width="1232" height="118" rx="10" fill="#fff" stroke="#e7ebe6"/>
+<path d="M445 651V727 M748 651V727 M1032 651V727" stroke="#e7ebe6"/>
+<text x="136" y="672" class="sans muted label">WHERE TO?</text><text x="136" y="704" class="sans ink body">⌖  Search destinations</text>
+<text x="477" y="672" class="sans muted label">WHEN?</text><text x="477" y="704" class="sans ink body">▦  Choose dates</text>
+<text x="780" y="672" class="sans muted label">WHO'S GOING?</text><text x="780" y="704" class="sans ink body">♙  2 travellers</text>
+<rect x="1060" y="657" width="246" height="62" rx="7" fill="#0f766e"/><text x="1183" y="695" text-anchor="middle" class="sans white body" font-weight="bold">⌕  Find my trip</text>
+<!-- Destinations -->
+<text x="104" y="842" class="sans green label">●  HANDPICKED FOR YOU</text><text x="104" y="906" class="serif ink heading">Places that stay</text><text x="104" y="963" class="serif green heading" font-style="italic">with you.</text>
+<text x="830" y="913" class="sans muted body">From slow mornings by the sea to mountain air that clears</text><text x="830" y="941" class="sans muted body">your head — your kind of escape is waiting.</text>
+<!-- filter pills -->
+<g class="sans small"><rect x="104" y="1000" width="105" height="38" rx="19" fill="#103e39"/><text x="156" y="1024" text-anchor="middle" class="white">All trips</text>
+<rect x="220" y="1000" width="82" height="38" rx="19" fill="#fff" stroke="#e4e9e3"/><text x="261" y="1024" text-anchor="middle" class="muted">Beach</text>
+<rect x="313" y="1000" width="105" height="38" rx="19" fill="#fff" stroke="#e4e9e3"/><text x="365" y="1024" text-anchor="middle" class="muted">Mountains</text>
+<rect x="429" y="1000" width="74" height="38" rx="19" fill="#fff" stroke="#e4e9e3"/><text x="466" y="1024" text-anchor="middle" class="muted">City</text>
+<rect x="514" y="1000" width="83" height="38" rx="19" fill="#fff" stroke="#e4e9e3"/><text x="555" y="1024" text-anchor="middle" class="muted">Nature</text>
+<rect x="608" y="1000" width="85" height="38" rx="19" fill="#fff" stroke="#e4e9e3"/><text x="650" y="1024" text-anchor="middle" class="muted">Culture</text></g>
+<text x="1150" y="1024" class="sans muted small">Budget: Any budget⌄</text>
+<!-- cards -->
+<g>
+ <rect x="104" y="1065" width="386" height="390" rx="10" fill="#fff" stroke="#e7ebe6"/><rect x="104" y="1065" width="386" height="190" rx="10" fill="url(#card)"/><rect x="121" y="1081" width="95" height="28" rx="4" fill="#fffdf9"/><text x="168" y="1099" text-anchor="middle" class="sans ink tiny">Bestseller</text><circle cx="456" cy="1096" r="17" fill="#fffdf9"/><text x="456" y="1102" text-anchor="middle" class="sans" fill="#0f766e" font-size="18">♡</text>
+ <text x="123" y="1283" class="sans muted tiny">⌖ Indonesia <tspan dx="170" fill="#b47b43">★ 4.9</tspan></text><text x="123" y="1321" class="serif ink" font-size="27">Bali, Indonesia</text><text x="123" y="1348" class="sans muted tiny">Tropical temples, rice terraces and dreamy sunsets.</text><path d="M123 1370H470" stroke="#edf0ec"/><text x="123" y="1393" class="sans muted tiny">Starting from</text><text x="123" y="1423" class="sans ink" font-size="23" font-weight="bold">₹42,999 <tspan class="muted" font-size="12" font-weight="normal">/ person</tspan></text><circle cx="448" cy="1410" r="18" fill="#f5f8f4" stroke="#dce6de"/><text x="448" y="1417" text-anchor="middle" class="sans green" font-size="20">→</text>
+ <rect x="527" y="1065" width="386" height="390" rx="10" fill="#fff" stroke="#e7ebe6"/><rect x="527" y="1065" width="386" height="190" rx="10" fill="#c8d9d7"/><rect x="544" y="1081" width="78" height="28" rx="4" fill="#fffdf9"/><text x="583" y="1099" text-anchor="middle" class="sans ink tiny">Popular</text><circle cx="879" cy="1096" r="17" fill="#fffdf9"/><text x="879" y="1102" text-anchor="middle" class="sans" fill="#0f766e" font-size="18">♡</text>
+ <text x="546" y="1283" class="sans muted tiny">⌖ United Arab Emirates <tspan dx="72" fill="#b47b43">★ 4.8</tspan></text><text x="546" y="1321" class="serif ink" font-size="27">Dubai, UAE</text><text x="546" y="1348" class="sans muted tiny">Skyline views, desert adventures and more.</text><path d="M546 1370H893" stroke="#edf0ec"/><text x="546" y="1393" class="sans muted tiny">Starting from</text><text x="546" y="1423" class="sans ink" font-size="23" font-weight="bold">₹35,999 <tspan class="muted" font-size="12" font-weight="normal">/ person</tspan></text><circle cx="871" cy="1410" r="18" fill="#f5f8f4" stroke="#dce6de"/><text x="871" y="1417" text-anchor="middle" class="sans green" font-size="20">→</text>
+ <rect x="950" y="1065" width="386" height="390" rx="10" fill="#fff" stroke="#e7ebe6"/><rect x="950" y="1065" width="386" height="190" rx="10" fill="#cbd9e2"/><rect x="967" y="1081" width="88" height="28" rx="4" fill="#fffdf9"/><text x="1011" y="1099" text-anchor="middle" class="sans ink tiny">Dream trip</text><circle cx="1302" cy="1096" r="17" fill="#fffdf9"/><text x="1302" y="1102" text-anchor="middle" class="sans" fill="#0f766e" font-size="18">♡</text>
+ <text x="969" y="1283" class="sans muted tiny">⌖ Switzerland <tspan dx="170" fill="#b47b43">★ 5.0</tspan></text><text x="969" y="1321" class="serif ink" font-size="27">Swiss Alps</text><text x="969" y="1348" class="sans muted tiny">Snow-capped peaks and storybook villages.</text><path d="M969 1370H1316" stroke="#edf0ec"/><text x="969" y="1393" class="sans muted tiny">Starting from</text><text x="969" y="1423" class="sans ink" font-size="23" font-weight="bold">₹89,999 <tspan class="muted" font-size="12" font-weight="normal">/ person</tspan></text><circle cx="1294" cy="1410" r="18" fill="#f5f8f4" stroke="#dce6de"/><text x="1294" y="1417" text-anchor="middle" class="sans green" font-size="20">→</text>
+</g>
+<!-- Why -->
+<rect y="1510" width="1440" height="520" fill="#f2f5ef"/>
+<rect x="104" y="1570" width="550" height="400" rx="10" fill="url(#card)"/><rect x="128" y="1885" width="502" height="62" rx="7" fill="#fffdf9"/><circle cx="158" cy="1916" r="17" fill="#e5f0e7"/><text x="158" y="1922" text-anchor="middle" class="sans green" font-size="16">✦</text><text x="187" y="1911" class="sans ink small" font-weight="bold">Travel, thoughtfully.</text><text x="187" y="1931" class="sans muted tiny">Little details. Big memories.</text>
+<text x="724" y="1600" class="sans green label">●  THE WANDERWISE WAY</text><text x="724" y="1670" class="serif ink" font-size="48">More than a trip.</text><text x="724" y="1726" class="serif green" font-size="48" font-style="italic">A feeling.</text>
+<text x="724" y="1768" class="sans muted small">We believe the best journeys aren't about ticking places off a list.</text><text x="724" y="1793" class="sans muted small">They're about people you meet and stories you bring home.</text>
+<g class="sans"><circle cx="745" cy="1840" r="20" fill="#e0ebe1"/><text x="745" y="1846" text-anchor="middle" class="green" font-size="18">✓</text><text x="780" y="1837" class="ink small" font-weight="bold">Thoughtfully picked</text><text x="780" y="1857" class="muted tiny">Trips designed with care, comfort and local character.</text>
+<circle cx="745" cy="1900" r="20" fill="#e0ebe1"/><text x="745" y="1906" text-anchor="middle" class="green" font-size="18">♡</text><text x="780" y="1897" class="ink small" font-weight="bold">Made for your kind of travel</text><text x="780" y="1917" class="muted tiny">Flexible ideas for solo explorers, couples and families.</text></g>
+<rect x="724" y="1950" width="170" height="45" rx="6" fill="#103e39"/><text x="809" y="1978" text-anchor="middle" class="sans white small" font-weight="bold">Get to know us →</text>
+<!-- Testimonial -->
+<rect y="2030" width="1440" height="235" fill="#103e39"/><text x="720" y="2082" text-anchor="middle" class="serif" font-size="62" fill="#e6b17c">“</text><text x="720" y="2120" text-anchor="middle" class="sans" font-size="12" letter-spacing="2" fill="#d9eee4">KIND WORDS, REAL MEMORIES</text><text x="720" y="2165" text-anchor="middle" class="serif white" font-size="29">“We came back with a camera full of photos</text><text x="720" y="2200" text-anchor="middle" class="serif white" font-size="29">and a heart full of stories.”</text><text x="720" y="2230" text-anchor="middle" class="sans" font-size="14" fill="#edb77d">★★★★★</text><text x="720" y="2253" text-anchor="middle" class="sans white tiny">Priya &amp; Arjun · Bali, Indonesia</text>
+<!-- footer -->
+<rect y="2265" width="1440" height="135" fill="#f0f4ef"/><text x="104" y="2310" class="sans ink" font-size="25" font-weight="bold">wander<tspan fill="#0f766e" font-weight="normal">wise</tspan></text><text x="104" y="2337" class="sans muted tiny">For curious travellers, big dreamers and the stories waiting to happen.</text>
+<text x="700" y="2307" class="sans ink small" font-weight="bold">Explore</text><text x="700" y="2333" class="sans muted tiny">Destinations · Our story · Traveller stories</text><text x="1030" y="2307" class="sans ink small" font-weight="bold">Need a hand?</text><text x="1030" y="2333" class="sans muted tiny">Contact us · Newsletter</text>
+<path d="M104 2355H1336" stroke="#dce5dc"/><text x="104" y="2380" class="sans muted tiny">© 2026 WanderWise Travel. All rights reserved.</text><text x="480" y="2380" class="sans ink tiny" font-weight="bold">Project Developed By: Nidhi Yadav</text><text x="1336" y="2380" text-anchor="end" class="sans muted tiny">Made for curious travellers ✦</text>
+</svg>
